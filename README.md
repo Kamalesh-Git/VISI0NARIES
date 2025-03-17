@@ -12,10 +12,10 @@ Visual inspection on Paint aesthetics, Weld aesthetics, gap measurements are cur
 Create an AI-based Vision system with a built-in Deep Learning model to detect, identify, and display defects on components which can qualify Paint appearance, Weld appearance, assembly quality, and machining quality.
 
 ## Dataset Information
-We used the [Weld Defect Detection Dataset](https://www.kaggle.com/datasets/sukmaadhiwijaya/weld-defect-detection-dataset) from Kaggle for training our model.
+We used the [Weld Defect Detection Dataset](https://www.kaggle.com/datasets/sukmaadhiwijaya/weld-defect-detection-dataset) from Kaggle for training our model. We will also incorporate datasets for Paint aesthetics and gap measurements in the future.
 
 ## Model Details
-We have developed a machine learning model to detect weld defects. The model was trained using an RTX 3050 (6GB) laptop GPU and an i5-12450H CPU.
+We have developed a machine learning model to detect weld defects. The model was trained using an RTX 3050 (6GB) laptop GPU and an i5-12450H CPU. We plan to extend our model to include detection capabilities for Paint aesthetics and gap measurements.
 
 ## Deployment on Raspberry Pi
 We are importing the trained deep learning model on a Raspberry Pi 5 and using a Pi Camera module to create a real-time machine vision system.
@@ -54,7 +54,7 @@ Include here the results of your model, such as accuracy, precision, recall, and
 
 ## Future Work
 - Improve the dataset with more diverse samples.
-- Enhance the model to detect other types of defects.
+- Enhance the model to detect other types of defects, including Paint aesthetics and gap measurements.
 - Integrate the model into a more robust and scalable real-time vision system.
 
 ## Contributing
