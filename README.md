@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb459355-9d36-43a7-8224-5abd0fb6e93c)# VISI0NARIES
+# VISI0NARIES
 Team V!SI0NARIES - Problem Statement 2 - Caterpillar Tech Challenge 2025
 
 ## Team Information
@@ -48,7 +48,6 @@ We are importing the trained deep learning model on a Raspberry Pi 5 and using a
     ```bash
     python3 infer_rpi.py
     ```
-
 ## Future Work
 - Improve the dataset with more diverse samples.
 - Enhance the model to detect other types of defects, including Paint aesthetics and gap measurements.
