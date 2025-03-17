@@ -1,4 +1,4 @@
-# VISI0NARIES
+![image](https://github.com/user-attachments/assets/cb459355-9d36-43a7-8224-5abd0fb6e93c)# VISI0NARIES
 Team V!SI0NARIES - Problem Statement 2 - Caterpillar Tech Challenge 2025
 
 ## Team Information
@@ -48,9 +48,6 @@ We are importing the trained deep learning model on a Raspberry Pi 5 and using a
     ```bash
     python3 infer_rpi.py
     ```
-
-## Results
-Include here the results of your model, such as accuracy, precision, recall, and any relevant visualizations.
 
 ## Future Work
 - Improve the dataset with more diverse samples.
