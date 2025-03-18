@@ -8,7 +8,7 @@ from ultralytics import YOLO
 # =====================================================
 # Configuration
 # =====================================================
-MODEL_PATH = r"D:\data\welding_defects\win_training\weights\best.pt"
+MODEL_PATH = r"D:\ML2\welding_defects\gpu_training_optimized\weights\best.pt"
 CLASS_NAMES = ['Bad Welding', 'Crack', 'Excess Reinforcement', 
                'Good Welding', 'Porosity', 'Spatters']
 DEFECT_CLASSES = {0, 1, 2, 4, 5}  # Exclude class 3 (Good Welding)

@@ -1,0 +1,6 @@
+train: D:\VISI0NARIES\data\dataset\train/images
+    val: D:\VISI0NARIES\data\dataset\valid/images
+    test: D:\VISI0NARIES\data\dataset\test/images
+
+    nc: 6
+    names: ['Bad Welding', 'Crack', 'Excess Reinforcement', 'Good Welding', 'Porosity', 'Spatters']
